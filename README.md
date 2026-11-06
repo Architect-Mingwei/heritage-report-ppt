@@ -38,4 +38,4 @@ python scripts/audit_pptx.py "C:\path\to\report.pptx" --pages 17 -o "C:\path\to\
 
 ## 许可
 
-本仓库未附带开源许可证。如需复制、改编或再分发，请先取得作者许可。
+本项目采用 [MIT License](LICENSE) 开源。
